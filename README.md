@@ -33,7 +33,7 @@ The second transaction:
 $$(x+2x')*(y-y'-y'')=k$$
 $$y''=y-y'-\frac{k}{(x+2x')}$$
 Therefore,
-$$y''<y'$$
+$$y''\lt y'$$
 Slippage is the price difference due to the tokens amount difference in the pool.
 Uniswap V2 let users set a tolerence of every transaction. If the price exceeds the users' tolerence, the transaction will be reverted.
 
